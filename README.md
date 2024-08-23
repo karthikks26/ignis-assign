@@ -2,7 +2,7 @@
 
 Here are the screenshots for the project:
 
-- **![Screenshot 1](https://github.com/user-attachments/assets/575d8292-b391-4ca0-898b-94367555225f) - Screenshot 1**
+- ![Screenshot 1](https://github.com/user-attachments/assets/575d8292-b391-4ca0-898b-94367555225f) - Screenshot 1
 - ![Screenshot 2](https://github.com/user-attachments/assets/28e092a7-c49c-41e8-9bdd-dd8294d378d5) - Screenshot 2
 - ![Screenshot 3](https://github.com/user-attachments/assets/0b075269-8bb7-4e9b-9c34-98f4fd6530d4) - Screenshot 3
 - ![Screenshot 4](https://github.com/user-attachments/assets/e56a8dd4-e869-4369-aac8-144ea0c8342a) - Screenshot 4
