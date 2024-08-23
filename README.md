@@ -15,4 +15,4 @@ Here are the screenshots for the project:
 - **Screenshot 6**
   ![Screenshot 6](https://github.com/user-attachments/assets/26bed343-2887-4dcf-9c99-453dcf76bb0e)
 - **Screenshot 7**
-  ![Screenshot 7](https://github.com/user-attachments/assets/bc4857af-b9d2-43a7-8ec2-74dc5011db49)
+  ![Screenshot 2024-08-23 095212](https://github.com/user-attachments/assets/435d9e5c-f8ba-4aa7-af6d-91a542d91b1a)
